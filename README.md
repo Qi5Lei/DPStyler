@@ -45,9 +45,13 @@ Model weights can be downloaded at https://drive.google.com/drive/folders/17C5Nb
 
 
 ## Citation
+
+
+```tex
 @article{Tang_2024_DPStyler_TMM,
   title={DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization},
-  author={Niu, Ziwei and Yuan, Junkun and Ma, Xu and Xu, Yingying and Liu, Jing and Chen, Yen-Wei and Tong, Ruofeng and Lin, Lanfen},
+  author={Tang, Yunlong and Wan, Yuxuan and Qi, Lei and Geng, Xin},
   journal={IEEE Transactions on Multimedia},
   year={2024}
 }
+```
