@@ -1,5 +1,5 @@
 # DPStyler: Dynamic PromptStyler for Source-Free Domain Generalization
-![](./images\method.png)
+![](./images/method.png)
 
 ## Datasets
 
